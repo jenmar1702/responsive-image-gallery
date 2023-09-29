@@ -1,0 +1,11 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 16px;
+}
+
+.grid > div {
+  position: relative;
+  aspect-ratio: auto 3/2;
+}
+

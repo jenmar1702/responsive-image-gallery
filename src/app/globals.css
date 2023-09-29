@@ -1,0 +1,17 @@
+body {
+  padding: 40px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1rem;
+  margin-bottom: 40px;
+}
+
+img {
+  border-radius: 8px;
+}
